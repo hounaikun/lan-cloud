@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: infra-server
+  profiles:
+    active: local
+
+server:
+  port: 58082
